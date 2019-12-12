@@ -13,5 +13,5 @@
 11. GAN (GAN)
 12. DCGAN (DCGAN)
 
-**각코드에 대한 자세한 내용: <https://wjddyd66.github.io/category/Pytorch>**  
+**각코드에 대한 자세한 내용: <https://wjddyd66.github.io/categories/#pytorch>**  
 연락처: wjddyd66@naver.com  
